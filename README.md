@@ -1,2 +1,2 @@
-# SimulatingDiceComparison
-In Mario F Triola's "Elementary Statistics," he mentioned there is a right way to simulated adding two dice and a wrong way. We shall look at each method in this simple project. 
+# Simulating Dice Comparison
+In Mario F Triola's "Elementary Statistics," he mentioned there is a right way to simulated adding two dice and a wrong way. When adding dice, the sum will always be between 2 and 12. But if we were to simulate that, would there be a difference between randomly generating two numbers from 1 through 6 and adding them versus randomly generating a number from 2 through 12? Do we expect the distrabution to be the same? We shall explore this question in this project. 
